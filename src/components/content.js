@@ -8,7 +8,7 @@ class Content extends Component {
 
             </p>
         )
-    )
+    }
 }
 
 export default Content;
